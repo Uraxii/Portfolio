@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+/* Webpage code written by Alex Peplinski copyright 2020 */
+/* Style sheet created by: Alex Peplinski, 10/21/2020 */
+
+/* Style for body specifies a background color */
+body {
+	background-color: #FFFFFF;
+}
+
+/* Styles for Mobile Layout */
+img {
+	max-width:25%;
+}
+/* Style for the container centers the page and specifies the width */
+#container {
+	margin-left: 0em;
+	margin-right: 0em;
+}
+/*moves logo into correct location*/
+#logo{
+	padding-right: auto;
+        margin-right: auto;
+}
+/* Style for the header specifies top margin, background color, rounded corners, and center align content */
+header {
+	font-family: Verdana, Arial, serif;
+	font-size: 1.5em;
+	margin-bottom: 0.3em;
+	text-align: left;
+	padding-top: 0em;
+	text-transform: uppercase;
+	background-color:#FFFFFF;
+	color: #000066;
+	vertical-align: top;
+	margin-top:0em;
+	padding-right:0em;
+}
+
+
+#banner {
+	text-align: center;
+}
+
+/* Style for nav specifies text properties */
+nav {
+	font-family: Lucida, "Times New Roman", serif;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+}
+/*style specifies padding and margins for unordered list */
+nav ul {
+	padding: 0em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+/* style for nav li specifies the background color, rounded corner, removes bullet style, and applies margins and padding for list items within the navigation */
+nav li {
+	background-color: #00930A;
+	list-style-type: none;
+	margin: 0.4em;
+	padding: 0.5em;
+}
+/*Style changes navigation link text color to white and removes underline */
+nav li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+/* Style for the main specifies a block display, text properties, margins, padding, rounded corners, and borders  */
+main {
+	display: block;
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 1em;
+	margin-top: 0em;
+	padding: 0em;
+	border-radius: 1em;
+	background-color: #f0f3f4;
+	padding-bottom:0em;
+}
+
+/* Style for the footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+}
+/* Style display the mobile class */
+.mobile{
+	display: inline;
+}
+article h2 {
+	text-align: center;
+	}
+	figure {
+	text-align:center;
+	}
+figure{
+	padding:0;
+	margin:auto;
+}
+figure img {
+    padding-top: 3em;
+    padding-left: 0em;
+    padding-right: 0em;
+		}
+	figcaption {
+	color:#000066;
+	background-color:#FFFFFF;
+	padding:0em;
+	margin:0em;
+	text-align:center;
+	}
+	ul{
+	text-align: left;
+	}
+	section {
+	padding:0.5em;
+	}
+	article {
+        border-radius: 1em;
+        color: #f0f3f4;
+	padding: 0.5em;
+	padding-bottom: 1em;
+	background-color: #424949;
+	}

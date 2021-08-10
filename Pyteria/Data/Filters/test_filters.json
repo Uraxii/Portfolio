@@ -1,0 +1,17 @@
+{
+"templates":{
+	"template":{"type":"template","value":"template","severity":"0","note":"Template for other stuff :p."}
+},
+"imports":{
+	"math":{"type":"import","value":"math","severity":"1","note":"When will I ever use this?"},
+	"re":{"type":"import","value":"re","severity":"4","note":"I'm pickle Reee"}
+},
+"method_calls":{
+	"random.randint":{"type":"method_call","value":"random.randint","severity":"0","note":""},
+	"__import__":{"type":"method_call","value":"__import__","severity":"4","note":"Wierd way to import that, bro."}
+},
+"constants":{
+	"gimme a number":{"type":"constant","value":"gimme a number","severity":"0","note":"Just a string"},
+	"1":{"type":"constant","value":"1","severity":"0","note":"Some number"}
+}
+}
