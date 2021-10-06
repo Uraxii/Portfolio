@@ -1,6 +1,6 @@
 --- DESRIPTION ---
 
-This program involves the ability to enable and diable various elements of a musical track. To enable an element, click the name of the element on screen. To Disable an element, click the name again.
+This program was a test showing how to enable and disable various elements of a musical track via script. To enable an element, click the name of the element on screen. To disable an element, click the name again.
  
 --- HOW TO RUN ---
 1. Download the files found in this 'Conduct' directory
