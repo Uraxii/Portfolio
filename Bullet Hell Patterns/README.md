@@ -1,4 +1,5 @@
 --- Description ---
+
 This is a demo for a developer cool I created to more quickly create unique patterns for enemies to shoot. The program is a demonstration of some of the patterns that can be made by modifying the parameters of the script.
 
 --- HOW TO RUN ---
